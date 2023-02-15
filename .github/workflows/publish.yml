@@ -9,8 +9,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: kaw393939/mywebclass-practice
-
+  DOCKER_REPO_NAME: mdrapu/my_webclass_assigment1
 jobs:
   build:
 
